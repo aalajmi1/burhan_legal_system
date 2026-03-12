@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Burhan Legal System\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-09 00:00+0000\n"
+"PO-Revision-Date: 2026-03-09 00:00+0000\n"
+"Last-Translator: OpenAI\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "User"
+msgstr "مستخدم"
+
+msgid "Users"
+msgstr "المستخدمون"
+
+msgid "Admin"
+msgstr "مدير"
+
+msgid "Lawyer"
+msgstr "محامٍ"
+
+msgid "Client"
+msgstr "عميل"
+
+msgid "Clients"
+msgstr "العملاء"
+
+msgid "Power of Attorney"
+msgstr "وكالة"
+
+msgid "Power of Attorneys"
+msgstr "الوكالات"
+
+msgid "National ID"
+msgstr "هوية وطنية"
+
+msgid "Iqama"
+msgstr "إقامة"
+
+msgid "Commercial Registration"
+msgstr "سجل تجاري"
+
+msgid "Passport"
+msgstr "جواز سفر"
+
+msgid "Other"
+msgstr "أخرى"
+
+msgid "Active"
+msgstr "نشطة"
+
+msgid "Expired"
+msgstr "منتهية"
+
+msgid "Revoked"
+msgstr "ملغاة"
+
+msgid "Pending Verification"
+msgstr "بانتظار التحقق"
+
+msgid "Case"
+msgstr "قضية"
+
+msgid "Cases"
+msgstr "القضايا"
+
+msgid "Commercial"
+msgstr "تجارية"
+
+msgid "Civil"
+msgstr "مدنية"
+
+msgid "Criminal"
+msgstr "جنائية"
+
+msgid "Labor"
+msgstr "عمالية"
+
+msgid "Family"
+msgstr "أحوال شخصية"
+
+msgid "Real Estate"
+msgstr "عقارية"
+
+msgid "Enforcement"
+msgstr "تنفيذ"
+
+msgid "Administrative"
+msgstr "إدارية"
+
+msgid "Urgent"
+msgstr "مستعجلة"
+
+msgid "Important"
+msgstr "مهمة"
+
+msgid "Normal"
+msgstr "عادية"
+
+msgid "New"
+msgstr "جديدة"
+
+msgid "In Progress"
+msgstr "قيد العمل"
+
+msgid "Waiting Court Session"
+msgstr "بانتظار جلسة"
+
+msgid "Waiting Judgment"
+msgstr "بانتظار الحكم"
+
+msgid "Judgment Issued"
+msgstr "صدر الحكم"
+
+msgid "Under Appeal"
+msgstr "قيد الاعتراض"
+
+msgid "In Enforcement"
+msgstr "قيد التنفيذ"
+
+msgid "Suspended"
+msgstr "موقوفة"
+
+msgid "Closed"
+msgstr "مغلقة"
+
+msgid "Case Assignment History"
+msgstr "سجل توزيع قضية"
+
+msgid "Case Assignment Histories"
+msgstr "سجلات توزيع القضايا"
+
+msgid "Case Event"
+msgstr "حدث قضية"
+
+msgid "Case Events"
+msgstr "أحداث القضايا"
+
+msgid "Court Session"
+msgstr "جلسة"
+
+msgid "Appeal Deadline"
+msgstr "مهلة اعتراض"
+
+msgid "Expert Visit"
+msgstr "زيارة خبير"
+
+msgid "Client Meeting"
+msgstr "اجتماع عميل"
+
+msgid "Internal Review"
+msgstr "مراجعة داخلية"
+
+msgid "Document Submission"
+msgstr "تقديم مستند"
+
+msgid "Payment Deadline"
+msgstr "مهلة سداد"
+
+msgid "Enforcement Action"
+msgstr "إجراء تنفيذ"
+
+msgid "Document"
+msgstr "مستند"
+
+msgid "Documents"
+msgstr "المستندات"
+
+msgid "Power Of Attorney"
+msgstr "وكالة"
+
+msgid "Judgment"
+msgstr "حكم"
+
+msgid "Legal Memo"
+msgstr "مذكرة قانونية"
+
+msgid "Appeal Memo"
+msgstr "لائحة اعتراض"
+
+msgid "Contract"
+msgstr "عقد"
+
+msgid "Evidence"
+msgstr "إثبات"
+
+msgid "Expert Report"
+msgstr "تقرير خبير"
+
+msgid "Identity Document"
+msgstr "وثيقة هوية"
+
+msgid "Invoice Attachment"
+msgstr "مرفق فاتورة"
+
+msgid "Receipt"
+msgstr "إيصال"
+
+msgid "Court Notice"
+msgstr "إشعار قضائي"
+
+msgid "Session Minutes"
+msgstr "محضر جلسة"
+
+msgid "Invoice"
+msgstr "فاتورة"
+
+msgid "Invoices"
+msgstr "الفواتير"
+
+msgid "Draft"
+msgstr "مسودة"
+
+msgid "Issued"
+msgstr "مصدرة"
+
+msgid "Partially Paid"
+msgstr "مسددة جزئيًا"
+
+msgid "Paid"
+msgstr "مسددة"
+
+msgid "Overdue"
+msgstr "متأخرة"
+
+msgid "Cancelled"
+msgstr "ملغاة"
+
+msgid "Cash"
+msgstr "نقدًا"
+
+msgid "Bank Transfer"
+msgstr "تحويل بنكي"
+
+msgid "POS"
+msgstr "نقطة بيع"
+
+msgid "Online"
+msgstr "إلكتروني"
+
+msgid "Payment"
+msgstr "دفعة"
+
+msgid "Payments"
+msgstr "المدفوعات"
+
+msgid "Research"
+msgstr "بحث"
+
+msgid "Drafting"
+msgstr "صياغة"
+
+msgid "Meeting"
+msgstr "اجتماع"
+
+msgid "Court Attendance"
+msgstr "حضور جلسة"
+
+msgid "Review"
+msgstr "مراجعة"
+
+msgid "Communication"
+msgstr "تواصل"
+
+msgid "Time Entry"
+msgstr "سجل وقت"
+
+msgid "Time Entries"
+msgstr "سجلات الوقت"
+
+msgid "Notification"
+msgstr "إشعار"
+
+msgid "Notifications"
+msgstr "الإشعارات"
+
+msgid "Session Reminder"
+msgstr "تذكير جلسة"
+
+msgid "Appeal Deadline Reminder"
+msgstr "تذكير مهلة اعتراض"
+
+msgid "POA Expiry Reminder"
+msgstr "تذكير انتهاء وكالة"
+
+msgid "Case Delayed Warning"
+msgstr "تنبيه تأخر قضية"
+
+msgid "Invoice Overdue Alert"
+msgstr "تنبيه فاتورة متأخرة"
+
+msgid "General"
+msgstr "عام"
+
+msgid "Audit Log"
+msgstr "سجل عملية"
+
+msgid "Audit Logs"
+msgstr "سجلات العمليات"
+
+msgid "CREATE"
+msgstr "إنشاء"
+
+msgid "UPDATE"
+msgstr "تحديث"
+
+msgid "DELETE"
+msgstr "حذف"
+
+msgid "VIEW"
+msgstr "عرض"
+
+msgid "DOWNLOAD"
+msgstr "تنزيل"
+
+msgid "LOGIN"
+msgstr "تسجيل دخول"
+
+msgid "LOGOUT"
+msgstr "تسجيل خروج"
